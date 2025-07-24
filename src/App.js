@@ -42,16 +42,16 @@ function App() {
           <source src="/A4op_Exhibition_New.mp4" type="video/mp4" />
           Your browser does not support HTML5 video.
         </video>
-        {/* <div className="overlay"> */}
         <div className="text-wrapper">
+          {/* <div className="overlay"> */}
           <h1 className="slide-left" style={leftStyle}>
             All <span className="Hollow-text">4</span> One
           </h1>
           <h1 className="slide-right" style={rightStyle}>
-            Planner
+            Planners
           </h1>
+          {/* </div> */}
         </div>
-        {/* </div> */}
       </div>
 
       <div className="slideshow">
